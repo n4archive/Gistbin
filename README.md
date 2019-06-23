@@ -27,4 +27,5 @@ SquidDev's Gistbin supports only his gists.
 
 ## Credits
 Original: (c) SquidDev
+
 Modified Parts: (c) 2019 nift4
